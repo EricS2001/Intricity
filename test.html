@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Input Example</title>
+  <link rel="stylesheet" href="style.css"> <!-- Link to external CSS file -->
+</head>
+
+<body>
+
+  <h1>Dave's Messages</h1><br>
+  <input type="text" id="userInput">
+  <button onclick="submitInput()">Submit</button>
+  <div class="bordered-text-sys">Lets play a game. <br>Your friends and I will ask you some questions and if you get
+    them right we will give you one part of a code!!</div>
+  <div class="bordered-text-sys">Get all the quetions right to get the whole code!</div>
+  <div class="bordered-text-sys"><strong>Questions 1:</strong> What city is Iowa State located in?</div>
+  <div id="userOutput" class="bordered-text-user hidden"></div>
+  <div id="sysOutput" class="bordered-text-sys hidden"></div>
+  <script src="index.js"></script>
+</body>
+
+</html>

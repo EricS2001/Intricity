@@ -1,0 +1,44 @@
+{
+    "friends": [
+        {
+            "friendID": "0",
+            "friendName": "Dave",
+            "profilePic": "./images/daveProfile.jpg",
+            "profilePicName": "davePro",
+            "url": "./daveMessages.html",
+            "answer": "ames"
+        },
+        {
+            "friendID": "1",
+            "friendName": "Steven",
+            "profilePic": "./images/stevenProfile.jpg",
+            "profilePicName": "stevenPro",
+            "url": "./stevenMessages.html",
+            "answer": "cyclones"
+        },
+        {
+            "friendID": "2",
+            "friendName": "Richard",
+            "profilePic": "./images/richardProfile.jpg",
+            "profilePicName": "richardPro",
+            "url": "./richardMessages.html",
+            "answer": "cy"
+        },
+        {
+            "friendID": "3",
+            "friendName": "Emily",
+            "profilePic": "./images/emilyProfile.jpg",
+            "profilePicName": "emilyPro",
+            "url": "./emilyMessages.html",
+            "answer": "parks"
+        },
+        {
+            "friendID": "4",
+            "friendName": "James",
+            "profilePic": "./images/jamesProfile.jpg",
+            "profilePicName": "jamesPro",
+            "url": "./jamesMessages.html",
+            "answer": "red"
+        }
+    ]
+}
