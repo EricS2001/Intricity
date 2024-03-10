@@ -7,3 +7,4 @@ Messages
     What city is Iowa State located in?
       -Ames
     What is the nickname for ISU sport's teams?
+      -Cyclones
